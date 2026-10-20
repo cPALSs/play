@@ -5,7 +5,7 @@ Repo: [cPALSs/play](https://github.com/cPALSs/play)
 
 Thin public page for **underwriting and partner review**: owned Magic Jump 8-station carnival games (not bounce houses). **No public rate card.**
 
-Staff context: [Inflatable Carnival Games proposal](../../../Programs/Proposals/Inflatable%20Carnival%20Games/) · [Partner-operator research](../../../Research/Product%20Scaffolds/Inflatable%20Carnival%20Games/Inflatable%20Carnival%20Games%20-%20Partner-Operator%20Path.md)
+Staff context: [Inflatable Carnival Games proposal](../../../Operations/Festivals%20Committee/Inflatable%20Carnival%20Games/) · [Partner-operator research](../../../Operations/Festivals%20Committee/Inflatable%20Carnival%20Games/Research/Inflatable%20Carnival%20Games%20-%20Partner-Operator%20Path.md)
 
 ## Edit / preview / publish
 
